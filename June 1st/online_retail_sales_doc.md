@@ -1,7 +1,7 @@
 Retail Capstone Database Project
 
 Database Design
-    Customers – customer information.
+Customers – customer information.
     Products – product details and prices.
     Orders – order information.
     Order_Items – products included in each order.
