@@ -453,4 +453,20 @@ left join patients p on a.patient_id = p.patient_id
 left join doctors d on a.doctor_id = d.doctor_id
 WHERE p.patient_id is NULL or d.doctor_id is NULL;
 
+-- Report 1
+select
+    p.patient_name, p.city,
+    count(distinct a.appointment_id) as total_appointments,
+    coalesce(sum(distinct b.total_amount),0) as total_bill_amount,
+    coalesce(sum(pay.paid_amount),0) as total_paid_amount,
+    coalesce(sum(distinct b.total_amount),0)
+      - coalesce(sum(pay.paid_amount),0) as pending_amount
+from patients p
+left join appointments a on p.patient_id = a.patient_id
+left join bills b on p.patient_id = b.patient_id
+left join payments pay on b.bill_id = pay.bill_id
+group by p.patient_id, p.patient_name, p.city;
 
+-- coalesce(expression, value_if_null)
+-- coalesce(null,0) return 0
+-- coalesce(500,0) return 500
