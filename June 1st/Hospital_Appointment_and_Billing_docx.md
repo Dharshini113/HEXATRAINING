@@ -1,6 +1,6 @@
 Hospital Capstone Database Project
 
-Database Design :::  
+Database Design :
 
     Patients – patient information.
     Departments – hospital department details.
@@ -11,7 +11,7 @@ Database Design :::
     Payments – payment details.
 
 
-Table Relationships :::  
+Table Relationships :
 
     One patient can book many appointments.
     One doctor can handle many appointments.
@@ -20,7 +20,7 @@ Table Relationships :::
     One appointment can generate a bill.
     One bill can have a payment record.
 
-Primary Keys :::  
+Primary Keys :
 
     patients → patient_id
     departments → department_id
@@ -30,7 +30,7 @@ Primary Keys :::
     bills → bill_id
     payments → payment_id
 
-Relationships :::  
+Relationships : 
 
 ----(Foreign Keys)-----
 
@@ -43,7 +43,7 @@ Relationships :::
     payments.bill_id → bills.bill_id
 
 
-Key Insights from Reports :::  
+Key Insights from Reports :
 
     Patients can be analyzed based on city, age, and gender.
     Doctors are categorized by specialization and department.
