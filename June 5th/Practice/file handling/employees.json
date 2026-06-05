@@ -1,0 +1,58 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Rahul Sharma",
+        "department": "Data Engineering",
+        "salary": 75000,
+        "city": "Hyderabad"
+    },
+    {
+        "employee_id": 102,
+        "name": "Priya Reddy",
+        "department": "AI Engineering",
+        "salary": 85000,
+        "city": "Bangalore"
+    },
+    {
+        "employee_id": 103,
+        "name": "Amit Kumar",
+        "department": "Data Engineering",
+        "salary": 70000,
+        "city": "Mumbai"
+    },
+    {
+        "employee_id": 105,
+        "name": "Farhan Ali",
+        "department": "Cloud Engineering",
+        "salary": 80000,
+        "city": "Delhi"
+    },
+    {
+        "employee_id": 106,
+        "name": "Kiran Kumar",
+        "department": "Data Science",
+        "salary": 90000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 106,
+        "name": "Kiran Kumar",
+        "department": "Data Science",
+        "salary": 90000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 106,
+        "name": "Kiran Kumar",
+        "department": "Data Science",
+        "salary": 90000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 106,
+        "name": "Kiran Kumar",
+        "department": "Data Science",
+        "salary": 90000,
+        "city": "Pune"
+    }
+]
