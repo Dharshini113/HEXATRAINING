@@ -1,7 +1,7 @@
 # print("Hello Hexaware")
 # print("Python Training Started")
 
-# customer_name="Riya _sharma"
+# customer_name="Riya sharma"
 # age=28
 # salary=50000
 # is_active=True
