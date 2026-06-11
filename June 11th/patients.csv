@@ -1,0 +1,11 @@
+patient_id,patient_name,city,age,gender,blood_group,insurance_status
+101,Rahul Sharma,Hyderabad,35,Male,O+,Active
+102,Priya Reddy,Bangalore,29,Female,A+,Active
+103,Amit Kumar,Mumbai,42,Male,B+,Inactive
+104,Sneha Patel,Chennai,31,Female,O+,Active
+105,Farhan Ali,Delhi,55,Male,AB+,Active
+106,Neha Singh,,38,Female,A+,Inactive
+107,Arjun Verma,Pune,26,Male,B+,Active
+108,Meera Nair,Kochi,48,Female,O-,Active
+109,Kiran Rao,Hyderabad,33,Male,,Inactive
+110,Nisha Reddy,Bangalore,41,Female,A+,Active
