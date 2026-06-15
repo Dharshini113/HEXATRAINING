@@ -2,7 +2,6 @@ Cloud computing
       Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”).
 
 Characteristics
-
       •	On-Demand Self-Service: Users can create and manage resources anytime without provider support.
       •	Broad Network Access: Cloud services can be accessed from anywhere using devices like laptops and phones.
       •	Resource Pooling: Resources are shared among multiple users and assigned as needed.
