@@ -1,0 +1,6 @@
+device_id,device_name,device_type
+D001,Air Conditioner,Cooling
+D002,Refrigerator,Cooling
+D003,Washing Machine,Appliance
+D004,Television,Entertainment
+D005,Water Heater,Heating
