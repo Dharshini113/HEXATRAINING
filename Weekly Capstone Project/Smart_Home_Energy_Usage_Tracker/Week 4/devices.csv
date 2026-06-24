@@ -1,0 +1,7 @@
+device_id,device_name,room_id,device_type,power_rating_watts
+101,Fridge,R1,Appliance,200
+102,AC,R4,Cooling,1500
+103,Washing Machine,R2,Appliance,500
+104,TV,R3,Electronics,150
+105,Heater,R2,Heating,2000
+106,Microwave,R4,Appliance,1200
