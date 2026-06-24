@@ -1,0 +1,15 @@
+user_id,month,category,amount,payment_mode
+5,2025-02,Entertainment,988,Card
+1,2025-01,Food,4052,Cash
+4,2025-02,Food,5264,Card
+3,2025-02,Shopping,3933,UPI
+6,2025-02,Entertainment,2535,UPI
+3,2025-01,Travel,881,Card
+2,2025-01,Food,2328,Card
+4,2025-01,Entertainment,3027,Card
+2,2025-02,Entertainment,5296,Cash
+5,2025-01,Shopping,1298,Card
+1,2025-02,Travel,1243,Card
+2,2025-01,Entertainment,5639,Card
+6,2025-02,Bills,3462,Cash
+6,2025-01,Bills,4855,Cash
